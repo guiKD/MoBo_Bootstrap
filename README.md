@@ -1,3 +1,3 @@
-# Landing page sobre o robô construído para a ROBOCUP pela nossa equipe
+# Site do MoBô
 
 https://lowpexay.github.io/MoBo_Site/

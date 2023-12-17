@@ -1,3 +1,3 @@
 # Site do MoBô
 
-https://lowpexay.github.io/MoBo_Site/
+https://sunny-baklava-6fa9cc.netlify.app

@@ -6,4 +6,5 @@ Site apresentando o MoBô
 https://robotmobo.netlify.app
 <br>
 <br>
-![image](https://github.com/guiKD/MoBo_Bootstrap/assets/125158583/fd7f67f3-24d5-48e4-a5b6-8f50ddc285b8)
+
+![image](https://github.com/guiKD/MoBo_Bootstrap/assets/125158583/e5d1a716-b3b8-42f4-8283-691dfd112a1e)

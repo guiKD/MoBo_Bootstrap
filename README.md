@@ -1,6 +1,6 @@
 # Site do MoBô
 <br>
-Site apresentando o MoBô 
+Site apresentando o MoBô, robô criado para competir a ROBOCUP
 <br>
 <br>
 https://robotmobo.netlify.app
